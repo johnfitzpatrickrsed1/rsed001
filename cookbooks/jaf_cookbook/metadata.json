@@ -1,0 +1,30 @@
+{
+  "maintainer_email": "YOUR_EMAIL",
+  "recommendations": {
+  },
+  "recipes": {
+    "jaf_cookbook::default": "Prints hello world output"
+  },
+  "groupings": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "version": "0.0.1",
+  "providing": {
+  },
+  "name": "jaf_cookbook",
+  "dependencies": {
+  },
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "license": "All rights reserved",
+  "conflicting": {
+  },
+  "description": "Installs/Configures jaf_cookbook"
+}
